@@ -1,5 +1,5 @@
 env
-__pycache___
+__pycache__
 config.py
-service.__pycache___
-controller.__pycache___
+service.__pycache__
+controller.__pycache__
